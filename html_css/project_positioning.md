@@ -40,6 +40,9 @@ In this project, your assignment is to copy [this article from the New York Time
 * [J-kaizen's solution](https://github.com/J-kaizen/TheOdinProject/tree/master/HTML_CSS/positioning_elements) | [View in browser](http://htmlpreview.github.io/?https://github.com/J-kaizen/TheOdinProject/blob/master/HTML_CSS/positioning_elements/index.html)
 * [csrail's solution](https://github.com/csrail/nytimes-mock) | [View in browser](https://rawgit.com/csrail/nytimes-mock/master/article.html)
 
+
+* [Ashleigh's solution](https://github.com/aedelman/positioning-elements) | [View in browser](http://htmlpreview.github.io/?https://github.com/aedelman/positioning-elements/blob/master/index.html)
+
 * Add your solution above this line!
 
 
